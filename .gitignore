@@ -1,0 +1,37 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# Eclipse files
+.classpath
+.settings
+.project
+.springBeans
+.checkstyle
+
+# Netbeans files
+nbactions.xml
+
+# Maven target folder
+target/
+
+# Eclipse build folder
+bin/
+
+# IntelliJ files
+.idea
+*.impl
+*.iml
+
+# MAC stuff
+.DS_Store
+
+joins.dot
+
+# Vim temp files
+*.swp
+
+# Merge conflict files
+*.orig
